@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(255, 254, 240);
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
